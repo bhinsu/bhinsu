@@ -39,25 +39,9 @@
 
 <br/>
 
-### 📈 GitHub Stats
-
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/bhinsu" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhinsu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhinsu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-##### ✨ Writing docs that help users understand products faster and better.
+#### ✨ Writing docs that help users understand products faster and better.
 
 </div>
 
