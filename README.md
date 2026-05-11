@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:111111,50:ff4da6,100:ff8ac8&text=SUBIN%20PARK&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Documentation%20Engineer%20%7C%20DX%20Focused&descAlignY=56&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:111111,50:ff4da6,100:ff8ac8&text=SUBIN%20PARK&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Technical%20Writer%20%7C%20Docs%20Architecture&descAlignY=56&descSize=20&animation=fadeIn"/>
 
 <br/>
 
@@ -26,30 +26,22 @@
 
 <br/>
 
-# 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
-### Documentation
-
-<img src="https://img.shields.io/badge/Markdown-111111?style=flat-square&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docusaurus-ff4da6?style=flat-square&logo=docusaurus&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitBook-111111?style=flat-square&logo=gitbook&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-ff4da6?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
-### Collaboration & Design
-
-<img src="https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-ff4da6?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Docs-ff4da6?style=flat-square&logo=googledocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Office-111111?style=flat-square&logo=microsoftoffice&logoColor=white"/>
-
-### Development Basics
-
-<img src="https://img.shields.io/badge/HTML5-ff4da6?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ff4da6?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Crowdin-2E3340?style=flat-square&logo=crowdin&logoColor=white"/>
 
 <br/>
 
@@ -121,22 +113,6 @@
 
 <br/>
 
-# 🎓 Education
-
-| School | Major |
-|---|---|
-| University of Ulsan | Korean Language & Literature |
-
-<br/>
-
-# 🏅 Certifications
-
-- AWS Certified Cloud Practitioner
-- Korean Practical Writing Test Level 2-
-- SMAT Service Management Level 1 Consultant
-
-<br/>
-
 # 📈 GitHub Stats
 
 <div align="center">
@@ -148,16 +124,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhinsu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhinsu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhinsu&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
